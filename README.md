@@ -1,4 +1,4 @@
-# PGC_The_Bike_Haven
+# PGC_The_Bike_Haven_Tableau project
 
 Project Overview This project involves creating a visually interactive and informative dashboard for "The Bike Haven," a bike shop based in San Francisco. The goal is to enhance the sales reporting system by transitioning from static reports to interactive dashboards, enabling better understanding and tracking of sales performance.
 
